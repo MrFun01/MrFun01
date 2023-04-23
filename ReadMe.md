@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently study and searching<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Java and Spring<br>💬 Ask me about java <br>⚡ Fun fact I'm fun
+🔭 I’m currently study and searching<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with job<br>🌱 I’m currently discovering IT world<br>💬 Ask me about java <br>⚡ Fun fact: The real name for a hashtag is an octothorpe due to has 8 points in the symbol
 
 
 # 💻 Tech Stack:
